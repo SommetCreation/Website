@@ -56,16 +56,16 @@ html {
 
 .btn {
     background: #3485d9;
-    background-image: -webkit-linear-gradient(top, #3485d9, #2db4dc);
-    background-image: -moz-linear-gradient(top, #3485d9, #2db4dc);
-    background-image: -ms-linear-gradient(top, #3485d9, #2db4dc);
-    background-image: -o-linear-gradient(top, #3485d9, #2db4dc);
-    background-image: linear-gradient(top, #3485d9, #2db4dc);
-    -webkit-border-radius: 17;
-    -moz-border-radius: 17;
-    border-radius: 17px;
+    background-image: -webkit-linear-gradient(top, #3485d9, #276fba);
+    background-image: -moz-linear-gradient(top, #3485d9, #276fba);
+    background-image: -ms-linear-gradient(top, #3485d9, #276fba);
+    background-image: -o-linear-gradient(top, #3485d9, #276fba);
+    background-image: linear-gradient(top, #3485d9, #276fba);
+    -webkit-border-radius: 15;
+    -moz-border-radius: 15;
+    border-radius: 15px;
     color: #ffffff;
-    font-size: 20px;
+    font-size: 17px;
     padding: 10px 20px 10px 20px;
     text-decoration: none;
 }
